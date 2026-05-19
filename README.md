@@ -1,6 +1,8 @@
 # Marble Run
 
-Simple Marble Maze Navigation Game built in Unreal Engine.
+**Marble Run** is an engaging and physics-driven 3D maze navigation game built in Unreal Engine. In this game, players take control of a marble and must carefully navigate through intricate levels filled with challenging obstacles, narrow pathways, and dynamic environmental hazards. 
+
+The core gameplay revolves around mastering momentum, precision, and timing to guide the marble safely from the starting point to the finish line. Whether it's balancing on precarious ledges, avoiding tricky traps, or utilizing slopes for bursts of speed, *Marble Run* offers a satisfying blend of reflex-based challenges and physics-based movement.
 
 ## Project Overview
 
